@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/AnonymousX1025/FallenRobot",
+   "repository": "https://github.com/srikanta309/XRobot",
    "stack": "heroku-22",
    "addons": [
       {
